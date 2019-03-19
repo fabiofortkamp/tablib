@@ -31,3 +31,4 @@ junit-py27.xml
 .python-version
 tablib.egg-info/
 Pipfile.lock
+.vscode/
